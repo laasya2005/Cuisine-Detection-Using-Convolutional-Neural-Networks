@@ -1,6 +1,6 @@
 # Cuisine-Detection-Using-Convolutional-Neural-Networks
 
-<h3>Goal: To develop a cuisine detector using Convolutional Neural Networks (CNNs) and computer vision techniques.</h3>
+Goal: To develop a cuisine detector using Convolutional Neural Networks (CNNs) and computer vision techniques.
 
 <img width="1135" alt="Screenshot 2024-01-25 at 4 42 40 AM" src="https://github.com/laasya2005/Cuisine-Detection-Using-Convolutional-Neural-Networks/assets/71040750/c79fab05-428b-4bc1-8adb-defed9cb6f78">
 
